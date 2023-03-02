@@ -1,3 +1,4 @@
+# assemble and run with emulator 
 rm ./boot.bin
 nasm -f bin ./boot.asm -o ./boot.bin
 
